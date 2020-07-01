@@ -21,7 +21,7 @@ No other packages required
 4.Type 'python3 aepenc.py' to run the program
 
 
-## After opening it, type 'help' to get manual.
+### After opening it, type 'help' to get manual.
 
 <img src="https://imgur.com/1LJh7rz.png">
 
