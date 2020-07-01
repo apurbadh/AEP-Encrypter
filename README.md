@@ -34,20 +34,11 @@ Keyword 'decrypt' is used to decrypt text or file encrypted by encrypt.
 
 ### Encrypt or decrypt text.
 For encrypting or decrypting text, you need to use 'encrypt' or 'decrypt' keywords with '-w'.
-
-#### Encrypting
-encrypt -w <your text>
-  
-#### Decrypting
-decrypt -w <your text>
   
 ### Encrypt or decrypt file
 It is same as encrypting and decryping words but you have to use '-f' instead of '-w' and you should keep a password.
 
-#### Encrypt
-encrypt -f <file name>
-  
-#### Decrypt
-decrypt -f <file name>
+#### Example
+encrypt/decrypt -w/-f filename
   
  #### After doing this you need to keep password for encrypting or decrypting a file.
