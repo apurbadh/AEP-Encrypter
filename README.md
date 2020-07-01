@@ -39,6 +39,10 @@ For encrypting or decrypting text, you need to use 'encrypt' or 'decrypt' keywor
 It is same as encrypting and decryping words but you have to use '-f' instead of '-w' and you should keep a password.
 
 #### Example
-encrypt/decrypt -w/-f filename
+##### For text
+encrypt/decrypt -w text
+##### For file
+encrypt/decrypt -f filename
+
   
  #### After doing this you need to keep password for encrypting or decrypting a file.
