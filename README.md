@@ -4,15 +4,20 @@ This is an encrypted created by Apurba Adhikari(me) in python 3 to encrypt a fil
 ## Requirements
 
 Need any Linux/Mac system. (Can also run in Windows but not built for it.)
+
 You need python3 installed.
+
 No other packages required
 
 
 ## How to run it in your computer ?
 
 1.Open terminal
+
 2.Type 'git clone https://github.com/erikDuke/AEP-Encrypter.git'
+
 3.Change directory to AEP-Encrypter by typing 'cd AEP-Encrypter'
+
 4.Type 'python3 aepenc.py' to run the program
 
 
