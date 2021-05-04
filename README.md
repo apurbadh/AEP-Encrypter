@@ -14,14 +14,14 @@ No other packages required
 
 1.Open terminal
 
-2.Type 'git clone https://github.com/erikDuke/AEP-Encrypter.git'
+2.Type `git clone https://github.com/erikDuke/AEP-Encrypter.git`
 
-3.Change directory to AEP-Encrypter by typing 'cd AEP-Encrypter'
+3.Change directory to AEP-Encrypter by typing `cd AEP-Encrypter`
 
-4.Type 'python3 aepenc.py' to run the program
+4.Type `python3 aepenc.py` to run the program
 
 
-### After opening it, type 'help' to get manual.
+### After opening it, type `help` to get manual.
 
 <img src="https://imgur.com/1LJh7rz.png">
 
